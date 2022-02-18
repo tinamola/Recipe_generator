@@ -1,0 +1,3 @@
+max_vocab_size: 20000
+src_len: 80
+tgt_len: 170
