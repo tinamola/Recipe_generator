@@ -11,12 +11,6 @@ This repo contains an Pytorch implementation for the ACL 2017 paper *[Get To The
 
 Run `install.sh` to install other requirements.
 
-## Dataset
-The processed dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1jflhxnTcuo74AzD1a2aTPoaw17lUnmuG/view?usp=sharing). Once finished, unzip the datafiles (`train.src`, `train.tgt`, ...) to `./data`. 
-
-An overview of dataset: `train`: 287113 cases, `dev`: 13368 cases, `test`: 11490 cases
-
-
 ## Paramters
 
 ```yaml
