@@ -20,5 +20,3 @@ As part of this research project, I am building a Sequence-to-Sequence(Seq2Seq)+
 ## Tutorials & Articles
 * A great source of tensorflow tutorials can be found at https://www.tensorflow.org/tutorials>, featuring basic word2vec, rnn, seq2seq, and bert models.
 * In addition, for learning NLP problems and the principles behind the structure of each model, useful videos can be found at <https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/>. 
-
-## Result
